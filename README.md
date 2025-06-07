@@ -61,7 +61,6 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ---
 
 ## 🏆 LeetCode & Achievements
-
 ## 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumalhacks&theme=dark)](https://leetcode.com/perumalhacks)
@@ -69,6 +68,8 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ## 🚀 Live Dashboard
 
 [![Live Stats on Vercel](https://img.shields.io/badge/View%20Dashboard-Vercel-black?style=for-the-badge&logo=vercel)](https://leetcode-kappa-six.vercel.app/)
+
+> Check out the real-time performance of [perumalhacks](https://leetcode.com/perumalhacks)!
 
 
 - Solved **250+** problems across various difficulty levels  

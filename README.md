@@ -54,6 +54,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 - 🔹 **Chrome Extension** – Productivity-focused extension using Tailwind CSS
 - 🔹 **Snake Game** – Classic game with animation and local storage
+      - 🔗 [Live Demo](https://snake-game-ecru-beta.vercel.app/)
 - 🔹 **E-Commerce App** – Full-stack app with JWT auth, product listings, and cart system (MERN stack)
 - 🔹 **MERN Chat App** – Real-time messaging with Socket.io and MongoDB
 - 🔹 **CRUD App** – Responsive user record manager with RESTful API

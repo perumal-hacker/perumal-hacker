@@ -1,4 +1,4 @@
-# 💻 Perumal | Fullstack Developer | Leetcoder | DataStructures Lover | DBMS 
+# 💻 Perumal | Full-Stack Software Developer | LeetCode Practitioner | Data Structures & Algorithms Specialist | Database Management Professional
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Perumal%2C+a+Fullstack+Developer!;DataStructures+%26+LeetCode+Enthusiast;Building+Smart+Tools+and+OpenSource+Projects)
 

@@ -60,6 +60,18 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ---
 
+## 🏆 LeetCode & Achievements
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumal-hacker&theme=dark)](https://leetcode.com/perumal-hacker)
+
+- Solved **250+** problems across various difficulty levels  
+- Strong in **Data Structures & Algorithms**, **Dynamic Programming**, and **System Design** fundamentals  
+- Active contributor in coding contests and problem-solving communities  
+- Daily problem solver with consistent streaks  
+
+---
+
+
 ## 🏆 Certifications
 
 - ✅ Full Stack Web Development – Udemy  
@@ -78,12 +90,8 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ---
 
-## 🌐 Languages Spoken
 
-- 🗣️ English (Fluent)  
-- 🗣️ Tamil (Native)
 
----
 
 ## 📊 GitHub Stats & Contributions
 
@@ -105,12 +113,19 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ---
 
-## 🎨 Custom SVGs & Banners
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/perumal-hacker/perumal-hacker/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <a href="https://www.linkedin.com/in/perumal-hacker" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:perumalhacker@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/perumal-hacker" target="_blank" rel="noopener noreferrer">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
----
 
 Thanks for visiting! 🚀 Let’s build something amazing together!

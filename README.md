@@ -67,7 +67,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ## 🚀 Live Dashboard
 
-[![LeetCode Stats](https://img.shields.io/badge/View%20Dashboard-Vercel-black?style=for-the-badge&logo=vercel)](https://leetcode-kappa-six.vercel.app/)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumalhacks&theme=dark)](https://leetcode-kappa-six.vercel.app/)
 
 > Check out the real-time performance of [perumalhacks](https://leetcode.com/perumalhacks)!
 

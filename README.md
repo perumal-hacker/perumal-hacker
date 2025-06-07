@@ -52,11 +52,13 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ## 🧠 Featured Projects
 
+- 🔹 **Chrome Extension** – Productivity-focused extension using Tailwind CSS
+- 🔹 **Snake Game** – Classic game with animation and local storage
 - 🔹 **E-Commerce App** – Full-stack app with JWT auth, product listings, and cart system (MERN stack)
 - 🔹 **MERN Chat App** – Real-time messaging with Socket.io and MongoDB
 - 🔹 **CRUD App** – Responsive user record manager with RESTful API
-- 🔹 **Chrome Extension** – Productivity-focused extension using Tailwind CSS
-- 🔹 **Snake Game** – Classic game with animation and local storage
+
+
 
 ---
 

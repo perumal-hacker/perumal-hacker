@@ -61,7 +61,6 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ---
 
 ## 🏆 LeetCode & Achievements
-## 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumalhacks&theme=dark)](https://leetcode.com/perumalhacks)
 
@@ -112,12 +111,6 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=ecommerce-app&theme=tokyonight)](https://github.com/perumal-hacker/ecommerce-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=mern-chat-app&theme=tokyonight)](https://github.com/perumal-hacker/mern-chat-app)
-
----
 
 ## 📫 Let's Connect
 

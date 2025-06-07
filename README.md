@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Perumal%2C+a+Fullstack+Developer!;DataStructures+%26+LeetCode+Enthusiast;Building+Smart+Tools+and+OpenSource+Projects)
 
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Welcome%20to%20Perumal's%20GitHub!&fontSize=32&fontColor=fff)
 
 <p align="left">

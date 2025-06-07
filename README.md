@@ -63,7 +63,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ## 🏆 LeetCode & Achievements
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumal-hacker&theme=dark)](https://leetcode.com/perumalhacks)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumalhacks&theme=dark)](https://leetcode.com/perumalhacks)
 
 - Solved **250+** problems across various difficulty levels  
 - Strong in **Data Structures & Algorithms**, **Dynamic Programming**, and **System Design** fundamentals  
@@ -118,13 +118,13 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/perumal-hacker" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/perumal-s-dev" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:perumalhacker@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/perumal-hacker" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/perumalhacks" target="_blank" rel="noopener noreferrer">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>

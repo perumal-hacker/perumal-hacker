@@ -63,7 +63,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 
 ## 🏆 LeetCode & Achievements
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumal-hacker&theme=dark)](https://leetcode.com/perumal-hacker)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=perumal-hacker&theme=dark)](https://leetcode.com/perumalhacks)
 
 - Solved **250+** problems across various difficulty levels  
 - Strong in **Data Structures & Algorithms**, **Dynamic Programming**, and **System Design** fundamentals  
@@ -86,7 +86,8 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ## 🏁 Hackathons & Activities
 
 - 🧠 Participant – Bhumi Hackathon 2024-2025  
-- 🧠 Participant – Smart India Hackathon 2024  
+- 🧠 Participant – Smart India Hackathon 2024
+- 💡 Finalists in Techathon 2024 
 - 💡 Participated in coding competitions and tech symposiums
 
 ---

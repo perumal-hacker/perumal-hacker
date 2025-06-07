@@ -5,7 +5,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Welcome%20to%20Perumal's%20GitHub!&fontSize=32&fontColor=fff)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=perumal-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="perumal-hacker" />
+<img src="https://komarev.com/ghpvc/?username=perumal-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="perumal-hacker" />
 </p>
 
 ---
@@ -14,11 +14,11 @@
 
 Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, backend developer, and open-source contributor. I love building real-world impactful tools that help developers and learners grow faster and smarter.
 
-- 🎓 **Student at**: B.E. Computer Science and Engineering  
+- 🎓 **Student at**: B.E. Computer Science and Engineering @ K.S. Rangasamy College of Technology (2022–2026), CGPA: 8.20
 - 🔧 **Currently Exploring**:
-  - 🧠 Working in projects And Data Structures
-  - 📊 GitHub analytics dashboards & LeetCode visualizers
-  - ⚙️ Automation tools with Supabase, Vercel, GitHub APIs
+- 🧠 Working on projects and Data Structures
+- 📊 GitHub analytics dashboards & LeetCode visualizers
+- ⚙️ Automation tools with Supabase, Vercel, GitHub APIs
 - 🌐 **Learning**: System design, RESTful APIs, DevOps basics, cloud platforms
 - 🎯 **Mission**: Build public tools, help peers upskill early & automate boring dev stuff
 
@@ -32,86 +32,85 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🌐 Web & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠 Tools & Platforms
+### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ThunderClient](https://img.shields.io/badge/ThunderClient-007ACC?style=for-the-badge&logo=thunder-client&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
-## ⚒️ Featured Projects
+## 🧠 Featured Projects
 
-### 📈 GitHub Repo Analyzer *(Coming Soon)*
-**Stack**: MERN, GitHub REST API, Chart.js  
-🔍 Visualize contributions, languages, commit heatmaps, and more.
-
-### 📓 Notes App  
-**Stack**: Node.js, MongoDB,  
-🗒️ Keep and manage your notes with a clean UI and backend.
-
-### 📧 Contact Manager API  
-**Stack**: Node.js, Express, MongoDB  
-🔐 Authenticated CRUD API with JWT, middleware, and validations.
+- 🔹 **E-Commerce App** – Full-stack app with JWT auth, product listings, and cart system (MERN stack)
+- 🔹 **MERN Chat App** – Real-time messaging with Socket.io and MongoDB
+- 🔹 **CRUD App** – Responsive user record manager with RESTful API
+- 🔹 **Chrome Extension** – Productivity-focused extension using Tailwind CSS
+- 🔹 **Snake Game** – Classic game with animation and local storage
 
 ---
 
-## 🏅 Achievements
+## 🏆 Certifications
 
-- ✅ **Open Source Contributor** on GitHub  
-- 🧮 **100+ LeetCode Problems Solved**  
-- ✍️ Built and contributed to GitHub API tools and CLI utilities  
-- 📚 Shared knowledge through roadmaps, mentoring & walkthroughs  
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perumal-hacker&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=perumal-hacker&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perumal-hacker&layout=compact&theme=radical&hide_border=true)
+- ✅ Full Stack Web Development – Udemy  
+- ✅ Data Structures and Algorithms in C – Udemy  
+- ✅ ChatGPT and Generative AI – Udemy  
+- ✅ Joy of Computing Using Python – NPTEL  
+- ✅ Problem Solving Through Programming in C – NPTEL
 
 ---
 
-## 🧩 Contribution Graph
+## 🏁 Hackathons & Activities
 
-[![Perumal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perumal-hacker&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🧠 Participant – Bhumi Hackathon 2024-2025  
+- 🧠 Participant – Smart India Hackathon 2024  
+- 💡 Participated in coding competitions and tech symposiums
+
+---
+
+## 🌐 Languages Spoken
+
+- 🗣️ English (Fluent)  
+- 🗣️ Tamil (Native)
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perumal-hacker&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perumal-hacker&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perumal-hacker&theme=react-dark" height="250"/>
+</p>
 
 ---
 
 ## 📌 Pinned Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=ecommerce-app&theme=tokyonight)](https://github.com/perumal-hacker/ecommerce-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=mern-chat-app&theme=tokyonight)](https://github.com/perumal-hacker/mern-chat-app)
+
+---
+
+## 🎨 Custom SVGs & Banners
+
 <p align="center">
-  <a href="https://github.com/perumal-hacker/notes-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=notes-app&theme=radical" />
-  </a>
-  <a href="https://github.com/perumal-hacker/contact-manager-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perumal-hacker&repo=contact-manager-api&theme=radical" />
-  </a>
+  <img src="https://raw.githubusercontent.com/perumal-hacker/perumal-hacker/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-## 🧮 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/perumal-hacker?theme=light&font=Karma&ext=heatmap)
-
----
-
-## 🌍 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/perumal-hacker)
-- 📬 [Email](mailto:perumalhacks@gmail.com)
-
----
-
-> 💡 *"Build tools that solve problems. Share what you learn. Grow by creating."*
+Thanks for visiting! 🚀 Let’s build something amazing together!

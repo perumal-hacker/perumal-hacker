@@ -1,4 +1,4 @@
-# 💻 Perumal | Full-Stack Software Developer | LeetCode Practitioner | Data Structures & Algorithms Specialist | Database Management Professional
+# 💻 Perumal | Full-Stack Software Developer | LeetCode Practitioner | Data Structures & Algorithms Specialist
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Hey+GitHubers!;I'm+Perumal%2C+a+Fullstack+Developer!;DataStructures+%26+LeetCode+Enthusiast;Building+Smart+Tools+and+OpenSource+Projects)
 
@@ -79,15 +79,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, back
 ---
 
 
-## 🏆 Certifications
 
-- ✅ Full Stack Web Development – Udemy  
-- ✅ Data Structures and Algorithms in C – Udemy  
-- ✅ ChatGPT and Generative AI – Udemy  
-- ✅ Joy of Computing Using Python – NPTEL  
-- ✅ Problem Solving Through Programming in C – NPTEL
-
----
 
 ## 🏁 Hackathons & Activities
 

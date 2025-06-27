@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, backend developer, and open-source contributor. I love building real-world impactful tools that help developers and learners grow faster and smarter.
+Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, full stack developer, and open-source contributor and datastructures addict. I love building real-world impactful tools that help developers and learners grow faster and smarter.
 
 - 🎓 **Student at**: B.E. Computer Science and Engineering @ K.S. Rangasamy College of Technology (2022–2026), CGPA: 8.20
 - 🔧 **Currently Exploring**:

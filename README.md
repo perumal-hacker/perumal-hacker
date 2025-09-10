@@ -71,7 +71,7 @@ Hi! I'm **Perumal**, a passionate **Computer Science Engineering student**, full
 > Check out the real-time performance of [perumal](https://leetcode.com/perumalhacks)!
 
 
-- Solved **250+** problems across various difficulty levels  
+- Solved **350+** problems across various difficulty levels  
 - Strong in **Data Structures & Algorithms**, **Dynamic Programming**, and **System Design** fundamentals  
 - Active contributor in coding contests and problem-solving communities  
 - Daily problem solver with consistent streaks  
